@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'cc7e2981-9fc7-4841-9149-0873aa7b232f'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'hello-world-rest-api-vastag'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'hello-world-rest-api-vastag'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
